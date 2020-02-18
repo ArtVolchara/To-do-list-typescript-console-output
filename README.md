@@ -46,6 +46,6 @@
    
    Например: node runner.js showInCompletedTasks List
 
-Для запуска проекта из папки todo-list-challenge-typescript необходимо сначала скомпилировать в js. Наберите:
+*****Для запуска проекта из папки todo-list-challenge-typescript необходимо сначала скомпилировать в js. Наберите:
 tsc typescript runner.ts
-Затем выполняйте нужные вышеупомянутые команды заменив "runner.js" на "typescript runner.js"
+Затем выполняйте нужные вышеупомянутые команды заменив "runner.js" на "typescript runner.js*****
